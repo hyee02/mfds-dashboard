@@ -1,35 +1,22 @@
-{
-  "dateRange": "2026-06-25 ~ 2026-07-02",
-  "generatedAt": "2026-07-02T09:00:00+09:00",
-  "counts": { "seafood": 91, "processed": 107, "produce": 131 },
-  "total": 329,
-  "csvNote": "전체 목록은 별도 CSV 파일로 관리됩니다",
-  "samples": {
-    "seafood": [
-      { "date": "07-02", "company": "부산세광식품", "name": "THE 하얀 구워먹는 치즈어묵", "type": "어묵" },
-      { "date": "07-02", "company": "부산세광식품", "name": "THE 하얀 구워먹는 두부김치어묵", "type": "어묵" },
-      { "date": "07-02", "company": "굿모닝씨푸드", "name": "어물전 90 제철 농어회", "type": "기타 수산물가공품" },
-      { "date": "07-01", "company": "모양에프앤비", "name": "고대도 대천맛김", "type": "가공김" },
-      { "date": "07-01", "company": "승화푸드", "name": "청어알씨앗젓갈", "type": "양념젓갈" },
-      { "date": "07-01", "company": "선호푸드", "name": "골드백명란젓", "type": "양념젓갈" },
-      { "date": "07-01", "company": "대천맛김", "name": "구운 파래김", "type": "가공김" },
-      { "date": "07-01", "company": "해주씨푸드", "name": "선동오징어(몸통&귀채)", "type": "기타 수산물가공품" }
-    ],
-    "processed": [
-      { "date": "07-02", "company": "팜앤브로 2공장", "name": "흰색 프리믹스", "type": "기타가공품" },
-      { "date": "07-02", "company": "팜앤브로 2공장", "name": "노랑 프리믹스", "type": "기타가공품" },
-      { "date": "07-02", "company": "팜앤브로 2공장", "name": "초록 프리믹스", "type": "기타가공품" },
-      { "date": "07-02", "company": "뉴벡", "name": "김치TOK 토핑", "type": "기타가공품" },
-      { "date": "07-02", "company": "한빛식품", "name": "고소하고 맛있는 볶은유부", "type": "기타가공품" },
-      { "date": "07-02", "company": "화인에프티", "name": "식물성 OMEGA-3 젤리스틱", "type": "기타가공품" }
-    ],
-    "produce": [
-      { "date": "07-02", "company": "해나눔", "name": "그린파이토 저포드 식이섬유정", "type": "과.채가공품" },
-      { "date": "07-02", "company": "윤가네 김장김치", "name": "윤가네 열무얼갈이물김치", "type": "김치" },
-      { "date": "07-02", "company": "에프디팜", "name": "오엘티 올리브 토마토샷", "type": "과.채음료" },
-      { "date": "07-02", "company": "성오유통", "name": "세척잔파 슬라이스", "type": "과.채가공품" },
-      { "date": "07-01", "company": "희성푸드", "name": "KN541 국내산 포기김치", "type": "김치" },
-      { "date": "07-01", "company": "콜마비앤에이치 세종3공장", "name": "자보티카바 원데이 핏", "type": "과.채가공품" }
-    ]
-  }
+﻿{
+    "dateRange":  "2026-06-26 ~ 2026-07-03",
+    "generatedAt":  "2026-07-03T10:46:25.8855383+09:00",
+    "counts":  {
+                   "seafood":  0,
+                   "processed":  0,
+                   "produce":  0
+               },
+    "total":  0,
+    "csvNote":  "최근 7일 신규 품목제조보고 (수산물/가공식품/야채과일)",
+    "samples":  {
+                    "seafood":  [
+
+                                ],
+                    "processed":  [
+
+                                  ],
+                    "produce":  [
+
+                                ]
+                }
 }
